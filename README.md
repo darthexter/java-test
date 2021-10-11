@@ -26,5 +26,4 @@ Relationship between Customer and Car:
 User Input >> Customer Information
 User Input >> Car Information
 
->>>>>>>>>>>>> Appending line 1 to README.md
 
