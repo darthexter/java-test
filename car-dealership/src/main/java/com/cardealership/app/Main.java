@@ -18,7 +18,6 @@ class Main {
 	    String dbpass = "mysql";
 
 	    try {
-	    	Class.forName("com.mysql.jdbc.Driver");
 	    	Connection con = DriverManager.getConnection(dburl,dbuser,dbpass);
 	    	System.out.println("Connection Successful!");
 	    	Statement stmt = con.createStatement();
